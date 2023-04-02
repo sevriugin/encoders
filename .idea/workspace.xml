@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcbbb06b-c2fe-449c-8eff-0dd6f43788cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/didocoder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BitField.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BitFieldEncoder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EncodedRanges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Encoder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciEncodedRanges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibonacciRangesEncoder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Model.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ModelFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Range.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RangesEncoder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SimpleEncodedRanges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Utils.kt" afterDir="false" />
+    <list default="true" id="bcbbb06b-c2fe-449c-8eff-0dd6f43788cd" name="Changes" comment="Initial implementation">
+      <changelist_data name="Sergei Sevriugin" email="sevriugin@gmail.com" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sergei Sevriugin &lt;sevriugin@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KotlinCodeInsightWorkspaceSettings">
@@ -102,12 +84,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680106902878</updated>
-      <workItem from="1680106903901" duration="79639000" />
+      <workItem from="1680106903901" duration="80023000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial implementation">
+      <created>1680452248907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680452248907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
